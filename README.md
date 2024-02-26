@@ -17,6 +17,7 @@ git push -u origin main
 закоммитили
 git pull
 
+
 ## Создаем ветки
 
 git branch a_branch
